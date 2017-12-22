@@ -1,0 +1,27 @@
+{
+  "name": "leon-lee-jl.github.io",
+  "version": "1.0.0",
+  "description": "Personal Portfolio Website",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "git merge --no-ff -s recursive -X subtree=public develop && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leon-lee-jl/leon-lee-jl.github.io.git"
+  },
+  "keywords": [
+    "React",
+    "Portfolio",
+    "Leon",
+    "Lee"
+  ],
+  "author": "Leon Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leon-lee-jl/leon-lee-jl.github.io/issues"
+  },
+  "homepage": "https://github.com/leon-lee-jl/leon-lee-jl.github.io#readme"
+}
