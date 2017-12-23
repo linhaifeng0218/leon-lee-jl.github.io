@@ -38,3 +38,11 @@ Class methods include:
  - static methods
  
 ## Let statement
+
+
+
+Gatsby-starter-forty
+http://gatsby-forty.surge.sh/
+
+gatsby-starter-docs
+https://gatsby-docs-starter.netlify.com/

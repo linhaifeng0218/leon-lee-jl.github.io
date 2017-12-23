@@ -1,18 +1,33 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "leon-lee-jl.github.io",
+  "description": "Leon Lee Portfolia",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Leon Lee <leon.lee@berkeley.edu>",
   "dependencies": {
     "gatsby": "^1.9.145",
     "gatsby-link": "^1.6.32",
-    "gatsby-plugin-react-helmet": "^1.0.8"
+    "gatsby-plugin-react-helmet": "^1.0.8",
+    "gatsby-image": "^1.0.27",
+    "gatsby-plugin-google-analytics": "^1.0.12",
+    "gatsby-plugin-sass": "^1.0.14",
+    "gatsby-plugin-sharp": "^1.6.21",
+    "gatsby-remark-copy-linked-files": "^1.5.9",
+    "gatsby-remark-images": "^1.5.33",
+    "gatsby-source-filesystem": "^1.5.8",
+    "gatsby-transformer-remark": "^1.7.21",
+    "gatsby-transformer-sharp": "^1.6.14",
+    "lodash": "^4.17.4"
   },
   "keywords": [
-    "gatsby"
+    "Portfolia, Leon, Data Scientist, Machine Learning Engineer"
   ],
+  "homepage": "leon-lee-jl.github.io",
   "license": "MIT",
   "main": "n/a",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leon-lee-jl/leon-lee-jl.github.io/tree/develop"
+  },
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
